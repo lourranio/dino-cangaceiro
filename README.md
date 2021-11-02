@@ -1,10 +1,11 @@
-# Dio Dino Game
-Dino game for Digital Innovation One's lesson, using only JS, HTML and CSS
+# Dino Cangaceiro Game
+Jogo Dino Cangaceiro. Evite obstáculos, incluindo cactos e pterodáctilos, pressionando a tecla de Espaço no teclado.
 
-## ART
-https://www.artstation.com/artwork/18XA0L
+## LOGO : https://www.artstation.com/artwork/18XA0L
 
-![screenshot](screen\screen-1.png?raw=true "screenshot")
+## SCREEN
+
+![screenshot](https://github.com/lourranio/dino-cangaceiro/blob/dc711f2bf47b55b308e1d610646caed8fe2d016d/screen/screen-1.png?raw=true "screenshot")
 
 
 # License
